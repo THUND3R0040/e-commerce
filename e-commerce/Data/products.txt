@@ -1,0 +1,7 @@
+TV,1500.0,Electromenager,2251.625,240
+Fridge,1200.0,Electromenager,4.0,5
+Pc,2700.0,Electronics,2.0,6
+Microwave,600.0,Electromenager,4.0,90
+Bike,400.0,Entertainment,1.0,140
+PS5,1500.0,Entertainment,3.0,4
+Iphone,2900.0,Electronics,4.0,0
